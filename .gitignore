@@ -1,0 +1,25 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Figma skill — generated output files (recreated by `node index.js`)
+.github/skills/figma/scripts/figma_output.json
+.github/skills/figma/scripts/figma_node_1_2149.txt
+.github/skills/figma/scripts/figma_node_1_2149.txt.raw.json
+.github/skills/figma/scripts/*.svg
+
+# Figma personal access token — NEVER commit this file
+.github/skills/figma/scripts/FigmaToken.js
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="32dp"
+    android:viewportWidth="120"
+    android:viewportHeight="32">
+    <!-- Discount Bank Logo - D letter mark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M8,4 L16,4 C22,4 26,8 26,16 C26,24 22,28 16,28 L8,28 Z M12,8 L12,24 L16,24 C19.5,24 22,21.5 22,16 C22,10.5 19.5,8 16,8 Z" />
+    <!-- Text "דיסקונט" replaced with simplified mark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,10 L36,10 L36,22 L32,22 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,10 L50,10 L50,13 L44,13 L44,15 L49,15 L49,18 L44,18 L44,22 L40,22 Z" />
+</vector>
+
